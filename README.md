@@ -2,7 +2,10 @@
 This webiste is my personal blog where I share the things I discovered while studying at Linton University College
 
 ## Linton's Life
-This is where I would share photos and places I visited 
+This is where I would share photos about:
+* places I visited
+* food that I loved
+* my school life
 
 ## My schedule
 A record of my study timetable to keep me update and do thing on time
